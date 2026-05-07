@@ -1,4 +1,4 @@
-# 🧠 RNA-Seq Analysis — Gene Expression in Autism Spectrum Disorder (ASD)
+# 🧠 RNA-Seq Analysis: Gene Expression in Autism Spectrum Disorder (ASD)
  
 > Transcriptomic profiling of human brain cortex samples to uncover novel genes, regulators, and pathways associated with ASD.
  
