@@ -84,15 +84,7 @@ Investigated the **top driver genes** — those contributing most to the transcr
 📦 rnaseq-asd-analysis/
 ├── data/                  # Raw and processed count matrices
 ├── scripts/               # R scripts for each analysis step
-│   ├── 01_deseq2.R
-│   ├── 02_pca_all.R
-│   ├── 03_pca_asd.R
-│   ├── 04_notable_genes.R
-│   ├── 05_clusters.R
-│   ├── 06_classification.R
-│   ├── 07_activated_repressed.R
-│   ├── 08_go_enrichment.R
-│   └── 09_top_drivers.R
+│   ├── transcriptomic_Analysis.R
 ├── results/               # Output tables and figures
 ├── figures/               # Publication-ready plots
 └── README.md
