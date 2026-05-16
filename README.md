@@ -35,13 +35,13 @@ My analysis focused specifically on **identifying differentially expressed genes
  
 ## 🔬 Analysis Pipeline
  
-### 1. 📊 Differential Expression — DESeq2
+### 1. 📊 Differential Expression - DESeq2
 Applied the **DESeq2** framework to identify statistically significant differentially expressed genes (DEGs) between ASD and control samples. Normalized read counts and applied shrinkage estimators to improve fold-change accuracy.
  
-### 2. 📉 PCA — All Samples
+### 2. 📉 PCA - All Samples
 Principal Component Analysis (PCA) performed on all 24 samples (ASD + controls) to assess **overall transcriptomic variance**, detect batch effects, and confirm sample grouping.
  
-### 3. 📉 PCA — ASD Samples Only
+### 3. 📉 PCA - ASD Samples Only
 A second PCA was conducted **exclusively on the 12 ASD samples** to investigate internal heterogeneity within the ASD group and identify potential transcriptomic subgroups.
  
 ### 4. 🔍 Notable Gene Extraction
